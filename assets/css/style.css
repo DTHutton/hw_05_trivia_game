@@ -1,3 +1,7 @@
+body {
+    font-family: 'Barlow', sans-serif;
+}
+
 .test {
     font-weight: bold;
     font-size: 50px;
