@@ -1,12 +1,12 @@
 ## Layout Base HMTL
 * 10 questions
 * 4 answers each
-* radio buttons for each answer
+<!-- * radio buttons for each answer -->
 * submit button
-* div for timer at the top
+<!-- * div for timer at the top -->
 
 ## JavaScipt and jQuery
-* timer function that counts down
+<!-- * timer function that counts down -->
 * timer was trigger game end once it hits zero
 * code that compares user answers to answer key
 * win condition code
@@ -42,7 +42,7 @@
 * What did Gretchen Weiner's dad invent?
     * the toaster strudel
     * poptarts
-    * the rotisserre 
+    * the rotisserre chicken
     * cabbage patch kids
 * Which character is almost too gay to function?
     * Damian
